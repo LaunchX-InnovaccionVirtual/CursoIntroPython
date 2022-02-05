@@ -160,8 +160,8 @@ Crea un gráfico para mostrar los niveles de oxígeno de su nave utilizando ``Ma
 Para ello en una celda de código vamos a ejecutar el siguiente comando:
 
 ```
-    !pip install matplotlib
-    !pip install numpy
+    %pip install matplotlib
+    %pip install numpy
 ```
 
 Enseguida, crea un bloque Markdown para anotar la descripción:
