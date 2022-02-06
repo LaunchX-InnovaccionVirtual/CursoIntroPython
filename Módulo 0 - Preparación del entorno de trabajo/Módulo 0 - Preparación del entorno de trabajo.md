@@ -100,7 +100,7 @@ Selecciona la palomita para ver el resultado.
 
 Ahora necesitas ejecutar tu notebook. Elige un kernel de la lista desplegable en la parte superior derecha. Es posible que tengas uno o varios núcleos para elegir, así que asegúrese de elegir un kernel de Python 3.
 
-![](../images/choose-kernel.png)
+![](../images/choose-kernel-1.2.jpg)
 
 ### Crear código ejecutable
 
