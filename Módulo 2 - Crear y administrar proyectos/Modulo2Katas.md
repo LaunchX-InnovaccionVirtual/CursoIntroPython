@@ -20,7 +20,7 @@ Crea un entorno virtual mediante ``venv``
     ```
     source env/bin/activate
     # Windows
-    env\bin\activate
+    env\bin\activate o env\scripts\activate
 
     # Linux, WSL or macOS
     source env/bin/activate
