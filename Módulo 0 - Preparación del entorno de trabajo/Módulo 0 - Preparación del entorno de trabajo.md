@@ -44,6 +44,9 @@ Si ya tiene Python instalado, es posible que deba actualizar la instalación a l
 
 ``python --version``
 
+Tambien te puede servir :
+``py --version``
+
 Es importante lo escribas exactamente igual, ya que al tratarse de un comando si no está escrito correctamente podría no saber la computadora a qué te refieres.
 
 Al ejecutar el comando te mostrará la versión que tienes actualmente instalada, para este entrenamiento, utilizaremos de la versión 3 para arriba.
