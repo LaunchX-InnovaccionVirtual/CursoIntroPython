@@ -19,8 +19,11 @@ Crea un entorno virtual mediante ``venv``
 
     ```
     source env/bin/activate
-    # Windows
-    env\bin\activate
+    # Windows cmd.exe
+    env\Scripts\activate.bat
+    
+    # Windows PowerShell
+    env\Scripts\Activate.ps1
 
     # Linux, WSL or macOS
     source env/bin/activate
