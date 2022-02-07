@@ -231,7 +231,7 @@ if a == 34 or b == 34:
     print(a + b)
 ```
 
-Si ambas subexpresiones son verdaderas, toda la expresión de prueba también evalúa a ``True``.
+Si alguna de las subexpresiones es verdadera, toda la expresión de prueba también evalúa a ``True``.
 
 Una expresión booleana que utiliza  ``or`` tiene la sintaxis siguiente:
 ```
