@@ -83,7 +83,7 @@ Así es como puede verse la activación en distintos sistemas operativos.
 ```
   # Bash | Consola
   # Windows
-  env\bin\activate
+  env\Scripts\activate
 
   # Linux, WSL o macOS
   source env/bin/activate
