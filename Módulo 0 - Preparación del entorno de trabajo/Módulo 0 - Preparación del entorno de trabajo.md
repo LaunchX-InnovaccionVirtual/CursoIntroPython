@@ -191,7 +191,7 @@ El gráfico de barras se ve así:
 ![](../images/chart.png)
 
 ### Realizar cálculos 
-A continuación, deseas mostrar el tiempo que su barco necesita tomar para llegar a una buena velocidad. Anota y crea una ecuación que te permitirá ingresar la velocidad de inicio de tu nave, la velocidad final deseada y la aceleración en metros por segundo.
+A continuación, deseas mostrar el tiempo que tu nave necesita tomar para llegar a una buena velocidad. Anota y crea una ecuación que te permitirá ingresar la velocidad de inicio de tu nave, la velocidad final deseada y la aceleración en metros por segundo.
 
 Creamos un bloque markdown para explicar la ecuación:
 
