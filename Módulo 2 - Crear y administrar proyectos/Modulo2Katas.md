@@ -8,11 +8,14 @@ En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para
 
 Crea un entorno virtual mediante ``venv``
 
-* Ejecutar en su terminal: ``python3 -m venv env``
+* Ejecutar en su terminal: ``python3 -m venv env`` o bien ``python -m venv env``
 
     ```
        python3 -m venv env 
     ```
+    ``
+    python -m venv env
+    ``
     Ahora tienes un directorio (folder) ``env`` creado en tu terminal.
 
 * Ejecuta el comando para activar el entorno virtual: ``source env/bin/activate``
@@ -21,12 +24,17 @@ Crea un entorno virtual mediante ``venv``
     source env/bin/activate
     # Windows
     env\bin\activate
+    
+    o bien: 
+    env\Scripts\activate
 
     # Linux, WSL or macOS
     source env/bin/activate
     ```
 
 Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
+
+![image](https://user-images.githubusercontent.com/9124597/153076991-25e857c5-a910-4d54-80b9-47fce1b62147.png)
 
 ## Instalar una biblioteca
 
