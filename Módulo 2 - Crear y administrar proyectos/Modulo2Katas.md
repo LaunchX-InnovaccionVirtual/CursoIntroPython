@@ -23,10 +23,10 @@ Crea un entorno virtual mediante ``venv``
     ```
     source env/bin/activate
     # Windows
-    env\bin\activate
+    env\Scripts\activate.bat
     
     o bien: 
-    env\Scripts\activate
+    env\Scripts\activate.bat
 
     # Linux, WSL or macOS
     source env/bin/activate
