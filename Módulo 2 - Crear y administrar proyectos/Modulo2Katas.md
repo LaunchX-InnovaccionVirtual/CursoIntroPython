@@ -34,7 +34,7 @@ Crea un entorno virtual mediante ``venv``
 
 Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
 
-![image](https://user-images.githubusercontent.com/9124597/153076991-25e857c5-a910-4d54-80b9-47fce1b62147.png)
+![image](https://user-images.githubusercontent.com/62962906/154399754-6b2dae0d-3821-4b67-ac3e-166b56a3d28d.png)
 
 ## Instalar una biblioteca
 
@@ -67,6 +67,8 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     six==1.16.0
     ```
 
+![image](https://user-images.githubusercontent.com/62962906/154400245-37ca65e4-f8dd-44db-81cd-2f05cb39bbad.png)
+
 ### Desactivar un entorno virtual
 
 Hasta ahora, has creado un entorno virtual y le has agregado un paquete. Sin embargo, es posible que estés trabajando en varios proyectos de Python y necesites cambiar entre ellos. Para hacer eso, debes salir (desactivar) tu entorno virtual.
@@ -80,6 +82,7 @@ Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
+![image](https://user-images.githubusercontent.com/62962906/154400473-ed0a4e9d-eef8-4d4e-ad0d-41cde33a9492.png)
 
 Curso Propedútico de Python para Launch X - Innovacción Virtual.
 
