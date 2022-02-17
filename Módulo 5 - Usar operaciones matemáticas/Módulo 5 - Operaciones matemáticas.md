@@ -166,7 +166,7 @@ print(abs(16 - 39))
 *Salida: 23, 23*
 
 ### Redondeo
-La función de python incorporada llamada ``round`` también es útil. Usada para redondear al entero más cercano si el valor decimal ``.5`` es mayor o mayor, o hacia abajo si es menor que ``.5``. 
+La función de python incorporada llamada ``round`` también es útil. Usada para redondear al entero más cercano si el valor decimal ``.5`` es igual o mayor, o hacia abajo si es menor que ``.5``. 
 
 ```
 print(round(14.5))
